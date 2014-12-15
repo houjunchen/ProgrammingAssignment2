@@ -1,5 +1,5 @@
 ## Programming assignment 2 of R programming on Coursera
-## A pratice of lexical scoping in R
+## A practice of lexical scoping in R
 ##
 ## Usage:
 ##      > source("cachematrix.R")
